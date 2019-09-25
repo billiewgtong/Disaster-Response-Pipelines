@@ -1,6 +1,6 @@
 # Disaster Response Pipelines
 
-In this project, I analyze disaster data from Figure Eight by building a model that classifies disaster messages, specifically I advance/build:
+In this project, I analyze disaster data from Figure Eight by building a model that classifies disaster messages. Specifically the follow are built/advanced:
 
     I. ETL Pipeline
       - Loads the messages and categories datasets

@@ -32,9 +32,9 @@ In this project, I analyze disaster data from Figure Eight by building a model t
 ```
 The datasets used in this analysis are:
 
-  I. Disaster Messages retrieved from Figure 8 via Udacity.
+  I. Disaster Messages provided by Figure 8.
     
-  II. Disaster Categories retrieved from Figure 8 via Udacity.
+  II. Disaster Categories provided by Figure 8.
 ```
 
 ## Languages, Programs and Libraries
